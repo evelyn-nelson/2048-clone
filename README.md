@@ -1,3 +1,6 @@
+got really really tired of the fact that my 2048 app was full of ads and somehow slow
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
